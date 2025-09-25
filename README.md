@@ -71,8 +71,8 @@ The Backend is designed to handle high-volume data processing and complex AI com
 ​A core technical innovation is the focus on Voice and Natural Language Processing (NLP). We will leverage tools like Google Cloud Speech-to-Text or custom-trained Automatic Speech Recognition (ASR) models to convert spoken queries in regional languages (like Punjabi and Hindi) into text. Custom NLP models will then accurately interpret the farmer’s intent, allowing for a seamless, hands-free advisory experience that bypasses text-based barriers.
 ​The implementation will follow a staged, Agile methodology. This starts with Data Curation (acquiring and labeling local soil and pest data), proceeds to AI Core Deployment (training and integrating the ML models), and culminates in a controlled Pilot and Refinement phase. During the pilot, a Human-in-the-Loop feedback system will be established, where Agricultural Extension Officers (AEOs) validate AI outputs, ensuring continuous improvement and high localized accuracy before large-scale deployment.
 
-![Uploading Screenshot (28).png…]()
 
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/bdbf4ff2-1621-4bc1-b5e4-4e827df674fe" />
 <img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/d7759bae-0458-440e-8eda-1f40511cee1c" />
 
 
