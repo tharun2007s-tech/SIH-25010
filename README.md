@@ -70,7 +70,7 @@ The Backend is designed to handle high-volume data processing and complex AI com
 ​The intelligence of the platform is driven by AI/ML Models built using TensorFlow or PyTorch. This includes the Convolutional Neural Network (CNN) for instant image-based disease and pest recognition, and Gradient Boosting or Random Forest models for personalized crop recommendation and yield prediction, ensuring advice is scientifically sound and specific to the farmer's land.
 ​A core technical innovation is the focus on Voice and Natural Language Processing (NLP). We will leverage tools like Google Cloud Speech-to-Text or custom-trained Automatic Speech Recognition (ASR) models to convert spoken queries in regional languages (like Punjabi and Hindi) into text. Custom NLP models will then accurately interpret the farmer’s intent, allowing for a seamless, hands-free advisory experience that bypasses text-based barriers.
 ​The implementation will follow a staged, Agile methodology. This starts with Data Curation (acquiring and labeling local soil and pest data), proceeds to AI Core Deployment (training and integrating the ML models), and culminates in a controlled Pilot and Refinement phase. During the pilot, a Human-in-the-Loop feedback system will be established, where Agricultural Extension Officers (AEOs) validate AI outputs, ensuring continuous improvement and high localized accuracy before large-scale deployment.
-![Uploading Screenshot (28).png…]()
+
 
 ![Uploading Screenshot (29).png…]()
 
